@@ -4,9 +4,9 @@ const botName = "SmyLey";
 const botLocation = "Lagos";
 const favoriteLanguage = "JavaScript";
 
-console.log("My name is " + botName + " and I live on " + botLocation);
+console.log("My name is " + botName + " and I live on " + botLocation+ ".");
 
-console.log("My favorite programming language os " + favoriteLanguage);
+console.log("My favorite programming language is " + favoriteLanguage + ".");
 
 let codingFact = "Do you know that " + favoriteLanguage + " is one of the top languages in the world?";
 
