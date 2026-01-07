@@ -1,0 +1,1 @@
+All the project in the folder cover all of topic ranging from variables, concatenations, console.log, etc
